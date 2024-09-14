@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="global.css" />
+</head>
+<script src="/JS-Functions/getTOS.js"></script>
+<body class = "main-Background">
+    <nav> 
+        <!-- will contain the nav links and logo-->
+        <table >
+            <tr>
+                <td> <a href="Home.html"><img src="logo.jpg" class="logo"/> </a></td>
+                <td class="spacing" colspan="2"> </td>
+                <td> <a href="AddCompany.html"> Add Company</a></td>
+                <td> <a href="ViewUserInfo.html"> Account Info</a></td>
+                <td> <a href="TermsandCondition.html"> Terms of Use </a></td>
+                <td class="spacing" colspan="2"> </td>
+                <td> <a href="Delete.html"> Delete Account </a></td>
+            </tr>
+        </table>
+    
+    
+    </nav>
+    
+    <h3>Hello Admin,</h3>
+
+    <label>Search for Company by Name (even partial name) or Id:</label>
+<br>
+    <input type="search" id="search" placeholder="Amazon" />
+    <button type="submit" id="check" 
+        onclick="getTOSByIDandName()"> Look Up </button>
+<br>
+
+<br>
+<br>
+<br>
+    <label> Terms and Conditions</label>
+<br>
+    <textarea id="viewToS" rows="30" cols="100" placeholder="By using Amazon, you ...." disabled></textarea>
+
+
+
+
+    <footer>
+        <table class="center-text">
+            <tr>
+                <th> Other Info</th>
+                <th>Contact</th>
+            </tr>
+
+            <tr>
+                <td> <a href="TermsandCondition.html"> Terms of Use </a></td>
+                <td>25 remote road, Online, WWW</td>
+            </tr>
+
+            <tr>
+                <td> Privacy Policy</td>
+                <td>(879)-096-456</td>
+            </tr>
+
+            <tr>
+                <td> News</td>
+                <td>Company@EazyReads.com</td>
+            </tr>
+        </table>
+
+        <div class="center-text"><b>  @Copy </b></div> 
+        <!-- will also contain nav links but its heigth will be way longer than the navbar and contain some miscellaneous info like 
+        address, number, email, and the like -->
+    </footer>
+</body>
+</html>

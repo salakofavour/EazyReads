@@ -1,0 +1,64 @@
+body{
+    background-image: url("main-Background.jpg");
+    background-repeat: repeat-y;
+    background-size: cover;
+}
+
+nav{
+    border:1pt solid white;
+    height: 10%;
+}
+footer{
+    border:1pt solid white;
+    position: fixed;
+    
+    height: 20%;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none !important;
+    color:rgb(255, 162, 0);
+}
+a:hover{
+    font-size: large;
+    color: purple;
+}
+td{
+    padding: 8px;
+}
+
+.spacing{
+    width:30%
+}
+
+
+.logo{
+    height: 50px;
+    width: 50px;
+}
+
+.center-text{
+    text-align: center;
+}
+
+
+/* .main-Background{
+    background-image: url("main-Background.jpg");
+    background-repeat: repeat-y;
+    background-size: cover;
+} */
+
+.TACBody{
+    height:65%;
+    background-color: bisque;
+}
+
+.TACBodyList{
+    height:70%;
+}
+.delete{
+    border-radius: 8px;
+    background-color: red;
+    font-size: larger;
+    margin: 50px;
+}

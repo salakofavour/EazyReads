@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FAvour\\Desktop\\Revature Training(.NET core, GIT, e.t.c)\\Project - 1\\EazyReadsAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E310F83B-6DFB-4B73-A359-6B7D081186DE}|EazyReadsAPI\\EazyReadsAPI.csproj|c:\\users\\favour\\desktop\\revature training(.net core, git, e.t.c)\\project - 1\\eazyreadsapi\\eazyreadsapi\\controllers\\companydetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E310F83B-6DFB-4B73-A359-6B7D081186DE}|EazyReadsAPI\\EazyReadsAPI.csproj|solutionrelative:eazyreadsapi\\controllers\\companydetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E310F83B-6DFB-4B73-A359-6B7D081186DE}|EazyReadsAPI\\EazyReadsAPI.csproj|c:\\users\\favour\\desktop\\revature training(.net core, git, e.t.c)\\project - 1\\eazyreadsapi\\eazyreadsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E310F83B-6DFB-4B73-A359-6B7D081186DE}|EazyReadsAPI\\EazyReadsAPI.csproj|solutionrelative:eazyreadsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E310F83B-6DFB-4B73-A359-6B7D081186DE}|EazyReadsAPI\\EazyReadsAPI.csproj|c:\\users\\favour\\desktop\\revature training(.net core, git, e.t.c)\\project - 1\\eazyreadsapi\\eazyreadsapi\\eazyreadsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E310F83B-6DFB-4B73-A359-6B7D081186DE}|EazyReadsAPI\\EazyReadsAPI.csproj|solutionrelative:eazyreadsapi\\eazyreadsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompanyDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\FAvour\\Desktop\\Revature Training(.NET core, GIT, e.t.c)\\Project - 1\\EazyReadsAPI\\EazyReadsAPI\\Controllers\\CompanyDetailsController.cs",
+              "RelativeDocumentMoniker": "EazyReadsAPI\\Controllers\\CompanyDetailsController.cs",
+              "ToolTip": "C:\\Users\\FAvour\\Desktop\\Revature Training(.NET core, GIT, e.t.c)\\Project - 1\\EazyReadsAPI\\EazyReadsAPI\\Controllers\\CompanyDetailsController.cs",
+              "RelativeToolTip": "EazyReadsAPI\\Controllers\\CompanyDetailsController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T22:20:18.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FAvour\\Desktop\\Revature Training(.NET core, GIT, e.t.c)\\Project - 1\\EazyReadsAPI\\EazyReadsAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EazyReadsAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\FAvour\\Desktop\\Revature Training(.NET core, GIT, e.t.c)\\Project - 1\\EazyReadsAPI\\EazyReadsAPI\\Program.cs",
+              "RelativeToolTip": "EazyReadsAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T07:19:43.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EazyReadsAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\FAvour\\Desktop\\Revature Training(.NET core, GIT, e.t.c)\\Project - 1\\EazyReadsAPI\\EazyReadsAPI\\EazyReadsAPI.csproj",
+              "RelativeDocumentMoniker": "EazyReadsAPI\\EazyReadsAPI.csproj",
+              "ToolTip": "C:\\Users\\FAvour\\Desktop\\Revature Training(.NET core, GIT, e.t.c)\\Project - 1\\EazyReadsAPI\\EazyReadsAPI\\EazyReadsAPI.csproj",
+              "RelativeToolTip": "EazyReadsAPI\\EazyReadsAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-31T07:29:16.325Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
